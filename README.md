@@ -57,8 +57,6 @@ A list of resources releated to data synthetic.
 
 * SDV: an open source library for synthetic data generation, **2018**,[ [paper](https://dspace.mit.edu/bitstream/handle/1721.1/121631/1098174866-MIT.pdf?sequence=1&isAllowed=y) ] 
 
-* Data synthesis based on generative adversarial networks, **PVLDB 2018**,[ [paper](https://www.vldb.org/pvldb/vol11/p1071-park.pdf) ] 
-
 
 ### Statistical Method
 
