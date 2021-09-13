@@ -78,6 +78,7 @@ A list of resources releated to data synthetic.
 
 * Synthesizing electronic health records using improved generative adversarial networks, **JAMIA 2019**,[ [paper](https://pubmed.ncbi.nlm.nih.gov/30535151/) ] 
 
+* CorGAN: Correlation-capturing convolutional generative adversarial networks for generating synthetic healthcare records, **2020**,[ [paper](https://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS20/paper/viewFile/18458/17611) ] 
 
 
 ## Code
