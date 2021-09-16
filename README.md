@@ -83,3 +83,4 @@ A list of resources releated to data synthetic.
 
 ## Code
 
+* https://github.com/ydataai/ydata-synthetic
